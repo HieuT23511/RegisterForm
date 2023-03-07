@@ -1,6 +1,7 @@
 form
 {
-    background-color:lavender;
+    border: 1px solid darkgray;
+    background-color: lavender;
 }
 input
 {
@@ -8,3 +9,4 @@ input
     text-align: left;
     padding: 10px;
 }
+
